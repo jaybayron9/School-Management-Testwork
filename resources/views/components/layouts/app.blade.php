@@ -7,7 +7,7 @@
         <title>{{ $title ?? 'School Management Testwork' }}</title>
 
         <link rel="stylesheet" href="table.css">
-        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="https://cdn.tailwindcss.com"></script> 
         @livewireStyles
     </head>
     <body>
